@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Talis247
-- 👀 I’m interested in Data Analytics and Artificial intelligence.
-- 🌱 I’m currently learning at Midlands State University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ts_urboi_talisyaseen_zw
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am a 3rd-year Data Science student at [Your University], deeply passionate about leveraging cutting-edge technologies like Generative AI, LLMs (Large Language Models), and MLOps to solve real-world problems. With a solid foundation in Python, machine learning, and cloud platforms like AWS and Azure, I am constantly exploring how emerging tools like LangChain, Hugging Face, and TensorFlow can revolutionize data-driven decision-making.
 
-<!---
-Talis247/Talis247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My journey in data science has been fueled by a curiosity for innovation. I’ve built projects that integrate AI-powered chatbots, predictive analytics, and automated data pipelines, and I’m currently diving into the world of responsible AI and ethical data practices. Whether it’s fine-tuning GPT models for specific use cases or deploying scalable machine learning solutions, I thrive on pushing the boundaries of what’s possible with data.
+
+I’m actively seeking opportunities to contribute to impactful projects in AI, machine learning, and big data analytics. My goal is to work at the intersection of technology and business, driving insights that empower organizations to make smarter, faster, and more ethical decisions.
+
+When I’m not coding, I’m sharing my learnings through blogs, participating in AI hackathons, or staying updated on the latest trends in AI, blockchain, and quantum computing. Let’s connect and explore how we can shape the future of technology together!
